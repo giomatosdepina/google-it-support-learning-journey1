@@ -13,4 +13,6 @@ Build a strong foundation in IT support, netwworking, operating systems, systems
 
 -Linux and Windows commands 
 
--Security Concepts -Personal Reflections 
+-Security Concepts
+
+-Personal Reflections 
