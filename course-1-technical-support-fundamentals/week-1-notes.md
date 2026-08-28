@@ -6,11 +6,11 @@
 
 -Software
 
-Operating Systems 
+-Operating Systems 
 
-Internet basics 
+-Internet basics 
 
-Troubleshooting 
+-Troubleshooting 
 
 ## Key Concepts I learned 
 
@@ -30,7 +30,7 @@ Troubleshooting
 
 -Operating System:
 
--Application 
+-Application: 
 
 ## Commands/ Tools I learned 
 
