@@ -23,9 +23,13 @@ Troubleshooting
 ##Important Terms 
 
 -CPU:
+
 -RAM: 
+
 -Hard Drive: 
+
 -Operating System:
+
 -Application 
 
 ## Commands/ Tools I learned 
