@@ -1,4 +1,4 @@
-# google-it-support-learning-journey1
+# google-it-support-learning-journey
 Documenting my progress, notes, labs and skills while completing the Google IT Support Certification
 ## Goal
 Build a strong foundation in IT support, netwworking, operating systems, systems administration, troubleshooting 
