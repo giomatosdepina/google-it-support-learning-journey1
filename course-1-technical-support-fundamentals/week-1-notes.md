@@ -127,7 +127,14 @@
        -How we as humans interact with our computer (mobile app, web browser, etc...)
        
     7. Users
-       -interacts with the user (MOST IMPORTANT) Utilizing problem solving tactics to identify issues and solutions 
+       -interacts with the user (MOST IMPORTANT) Utilizing problem solving tactics to identify issues and solutions
+
+### Module 2 
+
+# Hardware 
+- Computer monitor, desktop (this can go on or on below setup), mouse, webcam, etc...
+
+- Ports are connection points that we can connect devices to that extend the fucntionality of our computer 
 
 ### Key Vocab 
 
@@ -147,11 +154,13 @@
 
 - Trouble shooting
 
-- Configuring 
+- Configuring
+
+- Ports: connection points that we can connect devices to that extend the functionality of our computer 
 
 ##Important Terms 
 
--CPU:
+-CPU: the brain 
 
 -RAM: 
 
